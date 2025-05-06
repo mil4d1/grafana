@@ -15,7 +15,7 @@
 ### 1. اجرای مستقیم از GitHub:
 
 ```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/miladvpn-monitoring-tools/main/install_node_exporter.sh
+wget https://raw.githubusercontent.com/milad41/grafana/main/install_node_exporter.sh
 chmod +x install_node_exporter.sh
 sudo ./install_node_exporter.sh
 ```
