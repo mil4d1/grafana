@@ -15,9 +15,10 @@
 ### 1. اجرای مستقیم از GitHub:
 
 ```bash
-wget https://raw.githubusercontent.com/milad41/grafana/main/install_node_exporter.sh
+wget https://raw.githubusercontent.com/mil4d1/grafana/main/install_node_exporter.sh
 chmod +x install_node_exporter.sh
 sudo ./install_node_exporter.sh
+
 ```
 
 > ⚠️ جایگزین کن `YOUR_USERNAME` با یوزرنیم گیت‌هابت.
